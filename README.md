@@ -1,6 +1,6 @@
 # Property Management API
 
-A comprehensive RESTful API for managing real estate properties with user authentication, favorites, and recommendation features.
+A comprehensive RESTful API for managing real estate properties with user authentication, favorites, and recommendation features with 200 users and 1000 properties.
 
 ## Table of Contents
 
